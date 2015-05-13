@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagement", "LibraryManagement\LibraryManagement.csproj", "{FF09B579-159B-4B98-8D44-1422A46DD3A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF09B579-159B-4B98-8D44-1422A46DD3A2}.Debug|x86.ActiveCfg = Debug|x86
+		{FF09B579-159B-4B98-8D44-1422A46DD3A2}.Debug|x86.Build.0 = Debug|x86
+		{FF09B579-159B-4B98-8D44-1422A46DD3A2}.Release|x86.ActiveCfg = Release|x86
+		{FF09B579-159B-4B98-8D44-1422A46DD3A2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
